@@ -5,7 +5,9 @@
 - [Mod list (Brainstorm)](#mod-list-brainstorm)
   - [Table of Contents](#table-of-contents)
   - [Mods](#mods)
-    - [Client/Ease of Life](#clientease-of-life)
+    - [Client](#client)
+      - [Ease of Life](#ease-of-life)
+      - [Optimization](#optimization)
     - [Content Providing](#content-providing)
       - [Tech](#tech)
       - [Magic](#magic)
@@ -20,9 +22,11 @@
 
 ## Mods
 
-### Client/Ease of Life
+### Client
 
-- [Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)[¹](#foot-notes)
+#### Ease of Life
+
+- [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
   - > Minimap mod
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
   - > More Immersive alternative to Waila/Hwyla which provides more data when looking over blocks
@@ -32,8 +36,25 @@
   - > Recipe Viewer
   - [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
     - > Adds additional resource info like y level generation for ores and loot tables
+  - [JEI Integration](https://www.curseforge.com/minecraft/mc-mods/jei-integration)
+    - > Adds mod support for additional mods along with additional details to items like burn time and oreDictionary
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
   - > Mouse Tweaks that help with inventory and item Management
+- [Ding](https://www.curseforge.com/minecraft/mc-mods/ding)
+  - > Adds a ding notification when minecraft loads
+- [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth)
+  - > Helps Users to re-authenticate their accounts
+- [Better Placement](https://www.curseforge.com/minecraft/mc-mods/better-placement)
+  - > "Improve the vanilla block placement logic"
+- [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks)
+  - > Adds inventory sorting
+
+#### Optimization
+
+- [VanillaFix](https://www.curseforge.com/minecraft/mc-mods/vanillafix)
+  - > Performance improving mod along with other features like crash to menu
+- [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
+  - > Helps reduce resource usage when afk
 
 ### Content Providing
 
@@ -63,12 +84,34 @@
   - > The original feeling tech mod, works on EU, trying to be more similar to Joules, where there are different voltage levels and you have to be a bit more careful designing automation ;)
 - [Immersive engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
   - > Takes on a more visible automation process with it's iconic conveyor belts and massive multiblock machines. Not quite as powerful as any other tech mod, but very visually appealing.
+- [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+  - > Mass storage system mod
+- [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry)
+  - > Adds new plants, trees, bee, butterfly, and tree breeding aswell
+- [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network)
+  - > Early game alternative to applied energistics
+- [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
+  - > Adds multiblock reactors and turbines which create massive power
+- [OpenComputers](https://www.curseforge.com/minecraft/mc-mods/opencomputers)
+  - > Computer mod with advanced automation and integration with compatible mods
+- [CC: Tweaked (ComputerCraft)](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
+  - > Alternative to Open computers that is cheaper and more user friendly
+- [Computronics](https://wiki.vexatos.com/wiki:computronics)
+  - > Addon mod for computer mods which adds additional peripherals along with additional integration
+- [Project Red - Base](https://www.curseforge.com/minecraft/mc-mods/project-red-base)
+  - > Core for Project Red Mods
+  - [Project Red - Lighting](https://www.curseforge.com/minecraft/mc-mods/project-red-lighting)
+    - > Adds additional Lighting
+  - [Project Red - Integration](https://www.curseforge.com/minecraft/mc-mods/project-red-integration)
+    - > Adds additional redstone circuitry
+  - [Project Red - World](https://www.curseforge.com/minecraft/mc-mods/project-red-world)
+    - > Adds world gen and resources like marble and volcanoes
 
 #### Magic
 
 - [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
   - > Allows crafting seeds for growth of various resources  
-  - > (Chris) Personally I think they are cooler ways to do this, for metals Embers allows growing metals in a much more unique setup way, and quarries become quite useless if you rush this. However that was always with project E, so maybe progression is very different without that, I'd like paxi's input :P
+  - > ~~(Chris) Personally I think they are cooler ways to do this, for metals Embers allows growing metals in a much more unique setup way, and quarries become quite useless if you rush this. However that was always with project E, so maybe progression is very different without that, I'd like paxi's input :P~~
   - [Cucumber Library](https://www.curseforge.com/minecraft/mc-mods/cucumber)
     - > Library Mod
   - [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
@@ -105,6 +148,12 @@
   - > Adds Highly Customizable tools and weaponry along with ore processing
 - [Natura](https://www.curseforge.com/minecraft/mc-mods/natura)
   - > Adds more plants and foliage to both the Overworld and nether. Companion to Tinkers Construct
+- [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+  - > Similar to Natura, adds a bunch of world gen features, like biomes, vegetation, and more, for both the nether and overworld
+- [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+  - > Adds dragons along with other mystical creatures
+- [Advent of Ascension](https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine)
+  - > Massive adventure/rpg mod
 
 #### Misc
 
@@ -120,6 +169,16 @@
   - > Extra Tweaks to client and server including teams and claiming among other things
   - [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftblib)
     - > Library Mod
+- [AgriCraft](https://www.curseforge.com/minecraft/mc-mods/agricraft)
+  - > A Plant domestication mod which can help you to breed new plants or make them produce more and or faster
+- [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)
+  - > Adds a book that combines guide books
+- [NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict)
+  - > Adds a feature that allows the crafting of conflicting recipes
+- [CompactStorage](https://www.curseforge.com/minecraft/mc-mods/compactstorage)
+  - > Adds Customizable chests which can store more or less items
+- [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
+  - > Adds Tiered chests with increasingly more storage
 
 ---
 
@@ -129,17 +188,19 @@
 
 - Mod pack Development Process
   1. Add More Mods
-  2. Look Over Mod list for possible incompatibilities, like exploits, missing library/core mods, or unneeded/unrelated mods to the theme of the pack
-  3. Do Live Check for incompatibilities with a test run of pack
-  4. Fix incompatibilities
-  5. Repeat if Necessary
+  2. Add addon/integration Mods
+  3. Look Over Mod list for possible incompatibilities, like exploits, missing library/core mods, or unneeded/unrelated mods to the theme of the pack
+  4. Configure Mods and Configs
+  5. Do Live Check for incompatibilities with a test run of pack
+  6. Fix incompatibilities
+  7. Repeat if Necessary
 - Link Every Mod (Feel free to leave links under here if you'd like me to do them for you)
 - Add Descriptions for Each Mod
 
 ### Suggestions
 
-- Configuring unidict nicely so it works with all the mods, one case if I remember is thaumcraft's alchemical brass and any other brass should stay seperate in recipes and creation.
+- Configuring unidict nicely so it works with all the mods, one case if I remember is thaumcraft's alchemical brass and any other brass should stay separate in recipes and creation.
 
 ### Foot Notes
 
-- ¹Journeymap may be favored due to FTB Utilities' team claiming which is visible on Journeymap
+---

@@ -42,30 +42,43 @@
 - Mekanism
   - Mekanism Generators
   - Mekanism Tools
+  > Adds a plethora of automation tools and ore proccessing. More powerful than most other tech mods. 
 - Thermal Foundation
   - Thermal Dynamics
   - Thermal Expansion
   - Thermal Innovation
   - Thermal Cultivation
+  > Adds a ton of machines for automating practically any task you could think of efficiently. Nice base textures for ores and ingots, if we remove other ores to cleanup let's use these.
 - Industrial Craft 2
+  > The original feeling tech mod, works on EU, trying to be more similar to Joules, where there are different voltage levels and you have to be a bit more careful designing automation ;)
 - Immersive engineering
+  > Takes on a more visible automation process with it's iconic conveyor belts and massive multiblock machines. Not quite as powerful as any other tech mod, but very visually appealing.
 
 #### Magic
 
 - Mystical Agriculture
   - Cucumber Library
   - Mystical Agradditions
+  > Allows crafting seeds for growth of various resources  
+    (Chris) Personally I think they are cooler ways to do this, for metals Embers allows growing metals in a much more unique setup way, and quarries become quite useless if you rush this. However that was always with project E, so maybe progression is very different without that, I'd like paxi's input :P
 - Botania
+  > A tech mod in disguise of a magic mod, because it offers it's own energy system with mana, and allows automation of anything with the mod on it's own, differing by offering some very fun utilities to craft.
 - Blood Magic
   - Blood Arsenal
+  > The edgy magic mod where everyone afk stabs or uses regen instead of researching the mod further to figure out how to actually maximize blood output and make cool setups to achieve that :c 
 - Thaumcraft
   - Thaumic Terminal
   - Thaumic Periphery
   - Baubles
   - Thaumic JEI
   - Thaumic Inventory Scanning (Thaumcraft Addon)
+  > Classic magic mod because of the constant cool utilities you create, and the legacy the mod's created for itself.
+  > 
 - Embers Rekindled
+  > Very much an automation focused mod, but like botania offers very cool tools and utility in the form of tool upgrades  
+  (Chris) This is probably my fav 1.12 mod
 - Astral Sorcery
+  > Utilize starlight to create tools and enchance yourself through constellations, multiplying effects with other mods can be quite interesting
 
 #### Adventure/Aesthetics
 
@@ -105,6 +118,7 @@
 - Add Descriptions for Each Mod
 
 ### Suggestions
+-Configuring unidict nicely so it works with all the mods, one case if I remember is thaumcraft's alchemical brass and any other brass should stay seperate in recipes and creation.
 
 ### Foot Notes
 
